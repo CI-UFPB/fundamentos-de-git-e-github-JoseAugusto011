@@ -2,8 +2,9 @@
 
 
 
-### Informaçoes:
 
+### Informaçoes:
+- Curso: Ciência de dados e Inteligência artificial
 - Contatos: 
 - Email: jose.silva4@academico.ufpb.br   :+1:
 
